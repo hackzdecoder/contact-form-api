@@ -28,7 +28,7 @@ dotenv (for environment configuration)
 Developer Tools
 nodemon (for automatic server restart during development)
 
-Jest + Supertest (for backend testing)
+
 
 Project Structure
 
@@ -75,6 +75,7 @@ npm or yarn package manager
 
 Backend Setup (folder: api)
 Create the MySQL database:
+
 
 Open your MySQL CLI or phpMyAdmin and run:
 
